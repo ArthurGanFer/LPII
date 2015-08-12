@@ -17,7 +17,7 @@ public class Exercicio02 {
                 + "5 - Viuvo";
 
         do {
-            
+            //comentario de teste do git
             System.out.println(menu);
             Scanner codigo = new Scanner(System.in);
             
